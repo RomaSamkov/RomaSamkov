@@ -34,7 +34,7 @@ I’m Software Developer / Web Developer
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-     <td align="center"  width="88">
+     <td align="center"  width="98">
          <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
       <br>HTML5
     </td>
