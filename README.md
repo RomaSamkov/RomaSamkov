@@ -65,8 +65,12 @@ I’m Software Developer / Web Developer
     <td align="center" width="88">
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
-<!--     </td>
-        <td align="center" width="88">
+    </td>
+    <td align="center" width="88">
+        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+<!--         <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
       </td> -->
@@ -83,10 +87,10 @@ I’m Software Developer / Web Developer
         <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
     </td>
-    <td align="center" width="88">
+<!--     <td align="center" width="88">
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
-    </td>
+    </td> -->
       <td align="center" width="88">
         <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
