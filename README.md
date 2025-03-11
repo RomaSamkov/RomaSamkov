@@ -10,7 +10,9 @@ I’m Software Developer / Web Developer
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
   <tr> 
-      Ukrainian - Native      
+    
+      Ukrainian - Native  
+      
   </tr>
 
   <tr>
