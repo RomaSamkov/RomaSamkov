@@ -65,11 +65,11 @@ I’m Software Developer / Web Developer
     <td align="center" width="88">
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
-    </td>
+<!--     </td>
         <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
-      </td>
+      </td> -->
   </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
@@ -96,6 +96,11 @@ I’m Software Developer / Web Developer
         <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
+  </td>
+       <td align="center" width="88">
+        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+       <br>SQL
+      </td>
      <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
