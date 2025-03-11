@@ -50,10 +50,10 @@ I’m Software Developer / Web Developer
         <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
       <br>TypeScript
     </td>
-    <td align="center" width="88">
+<!--     <td align="center" width="88">
         <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
       <br>Python
-    </td>
+    </td> -->
     <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
@@ -75,10 +75,10 @@ I’m Software Developer / Web Developer
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
-    <td align="center" width="88"> 
+<!--     <td align="center" width="88"> 
         <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
       <br>BEM
-    </td>
+    </td> -->
     <td align="center"  width="88">
         <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
