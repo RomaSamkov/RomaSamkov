@@ -3,16 +3,14 @@
 
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+I’m Software Developer / Web Developer
 
 ### Languages :
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
-  <tr>
-    
-      Ukrainian - Native
-        
+  <tr> 
+      Ukrainian - Native      
   </tr>
 
   <tr>
