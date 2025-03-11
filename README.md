@@ -121,8 +121,13 @@ I’m Software Developer / Web Developer
 </div>
 <br>
 ## Stats:
-
+<div style="display: flex; align-items: flex-start; align: center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSamkov&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RomaSamkov&theme=dark)](https://git.io/streak-stats)
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSamkov&langs_count=8)
-
+<br>
+## Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=RomaSamkov&theme=dark)](https://git.io/streak-stats)
+
