@@ -127,10 +127,10 @@ I’m Software Developer / Web Developer
 <table align="center">
   <tr>
   <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSamkov&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSamkov&langs_count=8&theme=tokyonight">
   </td>
   <td>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RomaSamkov" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RomaSamkov&theme=tokyonight" alt="GitHub Streak" /></a>
   </td>
   </tr>
 </table>
