@@ -34,7 +34,7 @@ I’m Software Developer / Web Developer
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-     <td align="center"  width="98">
+     <td align="center"  width="88">
          <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
       <br>HTML5
     </td>
@@ -119,3 +119,10 @@ I’m Software Developer / Web Developer
      </td>
 </table>
 </div>
+<br>
+## Stats:
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaSamkov&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RomaSamkov&theme=dark)](https://git.io/streak-stats)
