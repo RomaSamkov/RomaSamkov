@@ -1,9 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on github profile
-
+## I’m Frontend Developer / Fullstack Developer
 ### About Me :
-
-I’m Software Developer / Web Developer
+I am a good team player, as I have a lot of experience working with people. I have strong critical-thinking abilities and solid problemsolving skills. I want to work in a company where I can develop as a professional and bring real results and tangible benefits to the company and people.
 
 ### Languages :
 
@@ -17,13 +16,13 @@ I’m Software Developer / Web Developer
 
   <tr>
     
-      English - Upper-Intermediate
+      English - B2
         
   </tr>
   
   <tr>
     
-      Spanish - Pre-Intermediate
+      Spanish - A2
         
   </tr>
 </table>
