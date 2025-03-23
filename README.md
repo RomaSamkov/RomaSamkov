@@ -8,16 +8,16 @@ I am a good team player, as I have a lot of experience working with people. I ha
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
-  <tr> 
-    
-      Ukrainian - Native  
-      
-  </tr>
-
   <tr>
     
       English - B2
         
+  </tr>
+
+  <tr> 
+    
+      Ukrainian - Native  
+      
   </tr>
   
   <tr>
